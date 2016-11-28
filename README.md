@@ -14,3 +14,6 @@
  * `docker run -d --name <container-name> <image-name>` #Then you can use <container-name> instead of container id for command on running container.
  * `docker rm <container-name>` #If you use --name you can not run another container with the same name without removing first.
  * `docker start <container-name>` #Start container that you have named again with the same parameters.
+
+## For other commands:
+ * https://docs.docker.com/engine/reference/commandline/cli/
